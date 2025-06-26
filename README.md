@@ -44,8 +44,8 @@ These outliers highlight the importance of looking beyond averages and detecting
 
 **Visualization**
 
-![Average Rating by Genre](genre_avg_ratings.png)
-![Budget vs IMDb Score](budget_vs_imdb_score.png)
+![Average Rating by Genre](charts/genre_avg_ratings.png)
+![Budget vs IMDb Score](charts/budget_vs_imdb_score.png)
 
 
 **Profitability Analysis**
@@ -54,7 +54,7 @@ To identify the most profitable movie genres, we calculated the average profit f
 -Genres like Music and Crime show negative or low profits, suggesting poor ROI.
 -This insight can help investors or producers target profitable genres.
 
-![Average Profit by Genre](avg_profit_by_genre.png)
+![Average Profit by Genre](charts/avg_profit_by_genre.png)
 
 **Final Summary & Recommendations**
 
